@@ -1,0 +1,10 @@
+C:\Users\sanmg\source\repos\Calculo IMC C#\bin\Debug\Calculo IMC C#.exe.config
+C:\Users\sanmg\source\repos\Calculo IMC C#\bin\Debug\Calculo IMC C#.exe
+C:\Users\sanmg\source\repos\Calculo IMC C#\bin\Debug\Calculo IMC C#.pdb
+C:\Users\sanmg\source\repos\Calculo IMC C#\obj\Debug\Calculo IMC C#.csproj.AssemblyReference.cache
+C:\Users\sanmg\source\repos\Calculo IMC C#\obj\Debug\Calculo_IMC_C_.Form1.resources
+C:\Users\sanmg\source\repos\Calculo IMC C#\obj\Debug\Calculo_IMC_C_.Properties.Resources.resources
+C:\Users\sanmg\source\repos\Calculo IMC C#\obj\Debug\Calculo IMC C#.csproj.GenerateResource.cache
+C:\Users\sanmg\source\repos\Calculo IMC C#\obj\Debug\Calculo IMC C#.csproj.CoreCompileInputs.cache
+C:\Users\sanmg\source\repos\Calculo IMC C#\obj\Debug\Calculo IMC C#.exe
+C:\Users\sanmg\source\repos\Calculo IMC C#\obj\Debug\Calculo IMC C#.pdb
